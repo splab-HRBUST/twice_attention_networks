@@ -2,9 +2,11 @@
 
 ## Detection
 
-This repo has an implementation for our paper **Twice Attention Networks for Synthetic Speech Detection**.  The experiment adopted 
+This repo has an implementation for our paper **Twice Attention Networks for Synthetic Speech Detection**:   
 
-https://github.com/nesl/asvspoof2019 as the baseline system for modification.
+**Chen Chen, Yaozu Song, Bohan Dai, Deyun Chen. Twice attention networks for synthetic speech detection[J]. Neurocomputing, 2023, 559: 126799.**  
+
+The experiment adopted https://github.com/nesl/asvspoof2019 as the baseline system for modification.
 
 ## Dataset
 
